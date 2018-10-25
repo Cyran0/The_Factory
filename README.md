@@ -15,7 +15,7 @@ Pour tester l'appli, réalisez les processus suivants :
 git clone https://github.com/Cyran0/The_Factory.git
 pour copier le repo sur votre machine
 
-cd Usine/
+cd The_Factory/
 pour se déplacer dans le bon dossier
 
 bundle install
@@ -29,6 +29,6 @@ pour pouvoir initialiser et remplir votre database !
 
 La base de données complète se trouve au chemin d'accès suivant :
 
-Usine/db/development.sqlite3
+The_Factory/db/development.sqlite3
 
 Ouvrez-la avec DB Browser ou SQLStudio
